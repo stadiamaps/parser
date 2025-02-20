@@ -81573,8 +81573,6 @@ module.exports =
       'svingen'
     ],
     'concatenated_suffixes_separable': [
-      'allè',
-      'alle',
       'allèen',
       'alleen',
       'veg',
